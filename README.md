@@ -84,6 +84,8 @@
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </p>
 
+<br/>
+
 **Machine Learning · Deep Learning · NLP**
 
 <p align="center">
@@ -98,6 +100,8 @@
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
 </p>
 
+<br/>
+
 **LLM & RAG Frameworks**
 
 <p align="center">
@@ -105,6 +109,8 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Ollama-ffffff?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
 </p>
+
+<br/>
 
 **Vector Databases**
 
@@ -115,6 +121,8 @@
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" alt="FAISS" />
 </p>
 
+<br/>
+
 **Cloud & App Frameworks**
 
 <p align="center">
@@ -124,6 +132,8 @@
   <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
 </p>
 
+<br/>
+
 **Deployment & MLOps**
 
 <p align="center">
@@ -132,6 +142,8 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+<br/>
 
 **Visualization & BI**
 
