@@ -125,10 +125,10 @@ class HridaySaha:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=i-hridaysaha&show_icons=true&count_private=true&hide_border=true&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=i-hridaysaha&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
 <img height="165" src="https://streak-stats.demolab.com/?user=i-hridaysaha&hide_border=true&background=0d1117&stroke=00C9A7&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-hridaysaha&layout=compact&hide_border=true&langs_count=8&title_color=00C9A7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-hridaysaha&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&title_color=00C9A7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 
 <br/>
 
