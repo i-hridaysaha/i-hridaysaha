@@ -4,8 +4,12 @@
 
 <div align="center">
 
-<!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=230&section=header&text=Hriday%20Saha&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Data%20Scientist%20%C2%B7%20Machine%20Learning%20%C2%B7%20Deep%20Learning%20%C2%B7%20Forecasting&descSize=17&descAlignY=60" alt="Hriday Saha" />
+<!-- Header banner (decorative gradient wave) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=160&section=header" alt="" />
+
+# Hriday Saha
+
+### Senior Data Scientist &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Forecasting
 
 <!-- Typing intro -->
 <a href="https://www.hridaysaha.com/">
