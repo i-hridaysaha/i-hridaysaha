@@ -115,14 +115,14 @@ class HridaySaha:
 
 ## 🚀 &nbsp;Featured Projects
 
-> Swap these placeholders for your real repos — pin 4–6 that best show range (an end-to-end ML app, a deep-learning model, a clean EDA/notebook, and one production/MLOps piece).
+Four projects spanning the full ML spectrum — **GenAI · NLP · classic ML · MLOps** — each built with production rigor and honest evaluation.
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🔗 [**Project One**](https://github.com/i-hridaysaha) | One-line impact statement (e.g. "Churn model, +12% retention"). | `PyTorch` · `FastAPI` |
-| 🔗 [**Project Two**](https://github.com/i-hridaysaha) | One-line impact statement. | `scikit-learn` · `XGBoost` |
-| 🔗 [**Project Three**](https://github.com/i-hridaysaha) | One-line impact statement. | `TensorFlow` · `Docker` |
-| 🔗 [**Project Four**](https://github.com/i-hridaysaha) | One-line impact statement. | `Pandas` · `Plotly` |
+| 🔗 [**Insurance Policy RAG**](https://github.com/i-hridaysaha/insurance-policy-rag) | Grounded Q&A over insurance policies — hybrid retrieval with clause-level citations, **100% citation accuracy** and disciplined refusals when the answer isn't in the document. | `SBERT` · `FAISS` · `BM25` · `LLM` |
+| 🔗 [**CVE→CWE Semantic Mapping**](https://github.com/i-hridaysaha/cve-cwe-semantic-mapping) | Auto-classifies vulnerability text to weakness categories via staged retrieve-then-rank — **87.4% top-1 / 96.1% top-3**, with SHAP explanations on every prediction. | `SBERT` · `LightGBM` · `SHAP` |
+| 🔗 [**Fraud Detection XGBoost**](https://github.com/i-hridaysaha/fraud-detection-xgboost) | Real-time credit-card fraud scoring at 1M+ txns/day under extreme class imbalance — leakage-safe temporal splits, SHAP explainability, and PSI drift monitoring. | `XGBoost` · `SHAP` · `FastAPI` |
+| 🔗 [**DriftWatch**](https://github.com/i-hridaysaha/driftwatch) | Model-agnostic ML monitoring service that detects feature/prediction drift with delayed-label support and effect-size-based alerting — **204 passing tests**, fully containerized. | `FastAPI` · `PostgreSQL` · `Docker` |
 
 <br/>
 
