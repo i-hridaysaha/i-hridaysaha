@@ -115,7 +115,7 @@ class HridaySaha:
 
 ## 🚀 &nbsp;Featured Projects
 
-Four projects spanning the full ML spectrum — **GenAI · NLP · classic ML · MLOps** — each built with production rigor and honest evaluation.
+Projects spanning the full ML spectrum — **GenAI · NLP · classic ML · forecasting · MLOps** — each built with production rigor and honest evaluation.
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -123,6 +123,7 @@ Four projects spanning the full ML spectrum — **GenAI · NLP · classic ML · 
 | 🔗 [**CVE→CWE Semantic Mapping**](https://github.com/i-hridaysaha/cve-cwe-semantic-mapping) | Auto-classifies vulnerability text to weakness categories via staged retrieve-then-rank — **87.4% top-1 / 96.1% top-3**, with SHAP explanations on every prediction. | `SBERT` · `LightGBM` · `SHAP` |
 | 🔗 [**Fraud Detection XGBoost**](https://github.com/i-hridaysaha/fraud-detection-xgboost) | Real-time credit-card fraud scoring at 1M+ txns/day under extreme class imbalance — leakage-safe temporal splits, SHAP explainability, and PSI drift monitoring. | `XGBoost` · `SHAP` · `FastAPI` |
 | 🔗 [**DriftWatch**](https://github.com/i-hridaysaha/driftwatch) | Model-agnostic ML monitoring service that detects feature/prediction drift with delayed-label support and effect-size-based alerting — **204 passing tests**, fully containerized. | `FastAPI` · `PostgreSQL` · `Docker` |
+| 🔗 [**FinSight**](https://github.com/i-hridaysaha/FinSight) | Forecasts next-quarter revenue, operating income & free cash flow from SEC + FRED data across 117 companies — rolling-origin validation and the discipline to **ship the honest baseline** when models didn't beat it. | `LSTM` · `LightGBM` · `Prophet` |
 
 <br/>
 
