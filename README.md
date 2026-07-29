@@ -41,24 +41,15 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-```python
-class HridaySaha:
-    def __init__(self):
-        self.role     = "Senior Data Scientist"
-        self.based_in = "Bangalore, India"
-        self.exp      = "4+ years shipping production ML"
-        self.impact   = "$1.7M+ in measurable business value"
-        self.focus    = ["Fraud & Anomaly", "NLP", "Forecasting", "MLOps"]
+> **Senior Data Scientist** with **4+ years** turning production ML into measurable outcomes — **$1.7M+** in business value delivered across **fraud detection, NLP, forecasting, and risk analytics**, most recently at **AXA Group Operations** (Paris & Kuala Lumpur). I own models end-to-end: from a messy CSV to a monitored, containerized scoring API.
 
-    def open_to(self):
-        return ["Full-time", "Remote", "Relocation", "Contract"]
-```
-
-- 🧠 &nbsp;Senior Data Scientist with **4+ years** building production ML across **fraud detection, NLP, forecasting, and risk analytics** — most recently at **AXA Group Operations** (Paris & Kuala Lumpur).
-- 💸 &nbsp;Delivered **$1.7M+ in business impact** — from real-time fraud prevention to audit automation.
-- 🚀 &nbsp;I take models **end-to-end**: from a messy CSV to a monitored, containerized scoring API.
-- 🗣️ &nbsp;Fluent in **English, Hindi, Bengali**. Open to **relocation & remote**.
-- 🌐 &nbsp;More at **[hridaysaha.com](https://www.hridaysaha.com/)**.
+|   |   |
+| :-- | :-- |
+| 🎯 &nbsp;**Focus** | Fraud & Anomaly Detection · NLP · Forecasting · MLOps |
+| 🧰 &nbsp;**Toolkit** | Python · PyTorch · TensorFlow · scikit-learn · FastAPI · Docker |
+| 📍 &nbsp;**Based in** | Bangalore, India — open to relocation & remote |
+| 🗣️ &nbsp;**Languages** | English · Hindi · Bengali |
+| 🌐 &nbsp;**Portfolio** | [hridaysaha.com](https://www.hridaysaha.com/) |
 
 <br/>
 
