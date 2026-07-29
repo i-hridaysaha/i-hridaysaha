@@ -5,11 +5,11 @@
 <div align="center">
 
 <!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Hriday%20Saha&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Senior%20Data%20Scientist%20·%20Machine%20Learning%20·%20Deep%20Learning&descSize=18&descAlignY=58&animation=fadeIn" alt="Hriday Saha" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=230&section=header&text=Hriday%20Saha&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Data%20Scientist%20%C2%B7%20Machine%20Learning%20%C2%B7%20Deep%20Learning%20%C2%B7%20Forecasting&descSize=17&descAlignY=60" alt="Hriday Saha" />
 
 <!-- Typing intro -->
 <a href="https://www.hridaysaha.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+decisions.;Building+models+that+ship+to+production.;Deep+learning+·+MLOps+·+Storytelling+with+data." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=680&lines=Senior+Data+Scientist+%C2%B7+4%2B+years+in+production+ML;%241.7M%2B+in+measurable+business+impact;Fraud+%C2%B7+NLP+%C2%B7+Forecasting+%C2%B7+MLOps;Turning+raw+data+into+decisions+that+ship." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,6 +26,8 @@
 </a>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=i-hridaysaha&label=Profile%20views&color=00c9a7&style=flat-square" alt="Profile views" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to-Full--time%20%C2%B7%20Remote%20%C2%B7%20Relocation-2c5364?style=flat-square" alt="Open to work" />
 
 </div>
 
@@ -38,20 +40,38 @@
 ```python
 class HridaySaha:
     def __init__(self):
-        self.role      = "Senior Data Scientist"
-        self.focus     = ["Machine Learning", "Deep Learning", "MLOps"]
-        self.toolbelt  = ["Python", "PyTorch", "TensorFlow", "scikit-learn"]
-        self.mission   = "Ship models that create measurable business impact."
+        self.role     = "Senior Data Scientist"
+        self.based_in = "Bangalore, India"
+        self.exp      = "4+ years shipping production ML"
+        self.impact   = "$1.7M+ in measurable business value"
+        self.focus    = ["Fraud & Anomaly", "NLP", "Forecasting", "MLOps"]
 
     def open_to(self):
-        return ["Full-time", "Remote", "Startups", "Contract"]
+        return ["Full-time", "Remote", "Relocation", "Contract"]
 ```
 
-- 🔭 &nbsp;I design, train, and **productionize ML systems** — from a messy CSV to a monitored endpoint.
-- 🧠 &nbsp;Deep learning across **NLP, computer vision, and tabular** problems.
-- 📊 &nbsp;I care as much about the **decision** a model drives as the model itself.
-- 🤝 &nbsp;**Open to new opportunities** — full-time, remote, startup, or contract.
+- 🧠 &nbsp;Senior Data Scientist with **4+ years** building production ML across **fraud detection, NLP, forecasting, and risk analytics** — most recently at **AXA Group Operations** (Paris & Kuala Lumpur).
+- 💸 &nbsp;Delivered **$1.7M+ in business impact** — from real-time fraud prevention to audit automation.
+- 🚀 &nbsp;I take models **end-to-end**: from a messy CSV to a monitored, containerized scoring API.
+- 🗣️ &nbsp;Fluent in **English, Hindi, Bengali**. Open to **relocation & remote**.
 - 🌐 &nbsp;More at **[hridaysaha.com](https://www.hridaysaha.com/)**.
+
+<br/>
+
+<!-- ─────────────────────────  CAREER HIGHLIGHTS  ───────────────────────── -->
+
+## 💼 &nbsp;Career Highlights
+
+<div align="center">
+
+| Impact | Where |
+|---|---|
+| ⚡ **94.2% F1** real-time fraud model on a **1M+ txns/day** platform at **sub-100ms** — **$1.5M+/yr** fraud loss prevented | AXA Group Operations |
+| 🔍 **93% Top-1 / 99% Top-3** NLP audit-mapping system — **96%** less manual effort, **~$180K/yr** saved | AXA Group Operations |
+| 📊 Delivered a **$1.2M analytics portfolio** at **98% on-time**, leading a team of **3–5** across 40+ stakeholders | AXA Group Operations |
+| 🎓 Advised **60+ applied ML projects**; trained **150+ professionals** (92% completion) | The Sparks Foundation |
+
+</div>
 
 <br/>
 
@@ -65,6 +85,7 @@ class HridaySaha:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Machine Learning & Data**
@@ -72,20 +93,22 @@ class HridaySaha:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=leaflet&logoColor=white)
 
-**Deep Learning**
+**Deep Learning & NLP**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
-**Viz & Delivery**
+**Deployment, MLOps & BI**
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -99,7 +122,7 @@ class HridaySaha:
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=i-hridaysaha&show_icons=true&count_private=true&hide_border=true&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=i-hridaysaha&hide_border=true&background=0d1117&stroke=00C9A7&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+<img height="165" src="https://streak-stats.demolab.com/?user=i-hridaysaha&hide_border=true&background=0d1117&stroke=00C9A7&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-hridaysaha&layout=compact&hide_border=true&langs_count=8&title_color=00C9A7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 
@@ -127,13 +150,24 @@ Projects spanning the full ML spectrum — **GenAI · NLP · classic ML · forec
 
 <br/>
 
+<!-- ──────────────────────  EDUCATION & CREDENTIALS  ────────────────────── -->
+
+## 🎓 &nbsp;Education & Credentials
+
+- 🎓 **M.Sc. Data Science & Business Analytics** — Asia Pacific University (APU), Malaysia
+- 🎓 **B.Tech. Computer Science & Engineering** — MCKV Institute of Engineering, India
+- 📜 **Certifications:** IBM Data Science Professional · SAS Data Science Professional · Microsoft Power BI Analytics
+- 🏆 **AXA Innovation Excellence Award (2023)** · **AWS Build Malaysia Semifinalist** (top 10% of 500+)
+
+<br/>
+
 <!-- ────────────────────────────  CONNECT  ──────────────────────────────── -->
 
 ## 🤝 &nbsp;Let's Build Something
 
 <div align="center">
 
-I'm open to **Senior Data Scientist / ML Engineer** roles and interesting collaborations.
+I'm open to **Senior Data Scientist / ML Engineer** roles — full-time, remote, or relocation.
 
 <a href="https://www.linkedin.com/in/ihridaysaha/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
