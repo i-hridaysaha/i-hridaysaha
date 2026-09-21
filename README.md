@@ -170,6 +170,7 @@
   <img src="https://img.shields.io/badge/Predictive_Modeling-006400?style=for-the-badge" alt="Predictive Modeling" />
   <img src="https://img.shields.io/badge/Time_Series_Forecasting-2F4F4F?style=for-the-badge" alt="Time Series Forecasting" />
   <img src="https://img.shields.io/badge/A%2FB_Testing-FF8C00?style=for-the-badge" alt="A/B Testing" />
+  <img src="https://img.shields.io/badge/Causal_Inference-5D3FD3?style=for-the-badge" alt="Causal Inference" />
   <img src="https://img.shields.io/badge/Feature_Engineering-696969?style=for-the-badge" alt="Feature Engineering" />
   <img src="https://img.shields.io/badge/ETL_Pipelines-4682B4?style=for-the-badge" alt="ETL Pipelines" />
   <img src="https://img.shields.io/badge/MLOps-000000?style=for-the-badge" alt="MLOps" />
@@ -178,38 +179,20 @@
 
 <br/>
 
-<!-- ────────────────────────────  GITHUB STATS  ─────────────────────────── -->
-
-## 📈 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-i-hridaysahas-projects.vercel.app/api?username=i-hridaysaha&show_icons=true&count_private=true&hide_border=true&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=i-hridaysaha&hide_border=true&background=0d1117&stroke=00C9A7&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
-
-<img height="165" src="https://github-readme-stats-i-hridaysahas-projects.vercel.app/api/top-langs/?username=i-hridaysaha&layout=compact&hide_border=true&langs_count=8&title_color=00C9A7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=i-hridaysaha&bg_color=0d1117&color=00c9a7&line=00c9a7&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-
-</div>
-
-<br/>
-
 <!-- ──────────────────────────  FEATURED WORK  ──────────────────────────── -->
 
 ## 🚀 &nbsp;Featured Projects
 
-Projects spanning the full ML spectrum — **GenAI · NLP · classic ML · forecasting · MLOps** — each built with production rigor and honest evaluation.
+Projects spanning the full ML spectrum — **fraud · causal inference · GenAI · NLP · forecasting · MLOps** — each built with production rigor and honest evaluation.
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🔗 [**Insurance Policy RAG**](https://github.com/i-hridaysaha/insurance-policy-rag) | Grounded Q&A over insurance policies — hybrid retrieval with clause-level citations, **100% citation accuracy** and disciplined refusals when the answer isn't in the document. | `SBERT` · `FAISS` · `BM25` · `LLM` |
+| 🔗 [**Fraud Detection Platform**](https://github.com/i-hridaysaha/fraud-detection-platform) | Point-in-time fraud scoring on the IEEE-CIS transaction stream — feature store with bit-identical online rows, cost-asymmetric thresholds, PSI drift monitoring and a gated retrain loop. Measures the leakage each shortcut buys (a random split alone inflates PR-AUC by **+0.26**); **37.6 ms** median scoring path. | `XGBoost` · `Redis` · `FastAPI` |
+| 🔗 [**DriftWatch**](https://github.com/i-hridaysaha/driftwatch) | Model-agnostic ML monitoring service that detects feature/prediction drift with delayed-label support and effect-size-based alerting — **219 passing tests**, fully containerized, seeded fault scenarios verified in CI against a real Postgres. | `FastAPI` · `PostgreSQL` · `Docker` |
+| 🔗 [**Uplift Targeting**](https://github.com/i-hridaysaha/uplift-targeting) | Per-customer treatment-effect estimation turned into a budgeted, dollar-valued targeting policy — meta-learners vs. uplift forests on **14M Criteo rows**, where uplift clears the response baseline by **4–6% Qini** (p < 0.001) and honestly doesn't on 64k Hillstrom customers. **130+ tests**, live Streamlit demo. | `scikit-uplift` · `LightGBM` · `Streamlit` |
+| 🔗 [**Insurance Policy RAG**](https://github.com/i-hridaysaha/insurance-policy-rag) | Grounded Q&A over insurance policies — hybrid retrieval with clause-level citations, **34/34 citations verified** and **3/3 correct refusals** when the answer isn't in the document. Runs fully local via Ollama. | `SBERT` · `FAISS` · `BM25` · `Ollama` |
 | 🔗 [**CVE→CWE Semantic Mapping**](https://github.com/i-hridaysaha/cve-cwe-semantic-mapping) | Auto-classifies vulnerability text to weakness categories via staged retrieve-then-rank — **87.4% top-1 / 96.1% top-3**, with SHAP explanations on every prediction. | `SBERT` · `LightGBM` · `SHAP` |
-| 🔗 [**Fraud Detection XGBoost**](https://github.com/i-hridaysaha/fraud-detection-xgboost) | Real-time credit-card fraud scoring at 1M+ txns/day under extreme class imbalance — leakage-safe temporal splits, SHAP explainability, and PSI drift monitoring. | `XGBoost` · `SHAP` · `FastAPI` |
-| 🔗 [**DriftWatch**](https://github.com/i-hridaysaha/driftwatch) | Model-agnostic ML monitoring service that detects feature/prediction drift with delayed-label support and effect-size-based alerting — **204 passing tests**, fully containerized. | `FastAPI` · `PostgreSQL` · `Docker` |
-| 🔗 [**FinSight**](https://github.com/i-hridaysaha/FinSight) | Forecasts next-quarter revenue, operating income & free cash flow from SEC + FRED data across 117 companies — rolling-origin validation and the discipline to **ship the honest baseline** when models didn't beat it. | `LSTM` · `LightGBM` · `Prophet` |
+| 🔗 [**FinSight**](https://github.com/i-hridaysaha/FinSight) | Forecasts next-quarter revenue, operating income & free cash flow from SEC + FRED data across **117 companies** — leakage-safe rolling-origin validation, per-company MASE, and the discipline to **ship the seasonal-naive baseline** for FCF when no learned model beat it. | `LSTM` · `LightGBM` · `Prophet` |
 
 <br/>
 
