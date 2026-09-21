@@ -41,13 +41,13 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-> **Senior Data Scientist** with **4+ years** turning production ML into measurable outcomes — **$1.7M+** in business value delivered across **fraud detection, NLP, forecasting, and risk analytics**, most recently at **AXA Group Operations** (Paris & Kuala Lumpur). I own models end-to-end: from a messy CSV to a monitored, containerized scoring API.
+> **Senior Data Scientist** with **4+ years** turning production ML into measurable outcomes: **$1.7M+** in business value delivered across **fraud detection, NLP, forecasting, and risk analytics**, most recently at **AXA Group Operations** (Paris & Kuala Lumpur). I own models end-to-end: from a messy CSV to a monitored, containerized scoring API.
 
 |   |   |
 | :-- | :-- |
 | 🎯 &nbsp;**Focus** | Fraud & Anomaly Detection · NLP · Forecasting · MLOps |
 | 🧰 &nbsp;**Toolkit** | Python · PyTorch · TensorFlow · scikit-learn · FastAPI · Docker |
-| 📍 &nbsp;**Based in** | Bangalore, India — open to relocation & remote |
+| 📍 &nbsp;**Based in** | Bangalore, India (open to relocation & remote) |
 | 🗣️ &nbsp;**Languages** | English · Hindi · Bengali |
 | 🌐 &nbsp;**Portfolio** | [hridaysaha.com](https://www.hridaysaha.com/) |
 
@@ -61,8 +61,8 @@
 
 | Impact | Where |
 |---|---|
-| ⚡ **94.2% F1** real-time fraud model on a **1M+ txns/day** platform at **sub-100ms** — **$1.5M+/yr** fraud loss prevented | AXA Group Operations |
-| 🔍 **93% Top-1 / 99% Top-3** NLP audit-mapping system — **96%** less manual effort, **~$180K/yr** saved | AXA Group Operations |
+| ⚡ **94.2% F1** real-time fraud model on a **1M+ txns/day** platform at **sub-100ms**; **$1.5M+/yr** fraud loss prevented | AXA Group Operations |
+| 🔍 **93% Top-1 / 99% Top-3** NLP audit-mapping system; **96%** less manual effort, **~$180K/yr** saved | AXA Group Operations |
 | 📊 Delivered a **$1.2M analytics portfolio** at **98% on-time**, leading a team of **3–5** across 40+ stakeholders | AXA Group Operations |
 | 🎓 Advised **60+ applied ML projects**; trained **150+ professionals** (92% completion) | The Sparks Foundation |
 
@@ -183,16 +183,16 @@
 
 ## 🚀 &nbsp;Featured Projects
 
-Projects spanning the full ML spectrum — **fraud · causal inference · GenAI · NLP · forecasting · MLOps** — each built with production rigor and honest evaluation.
+Projects spanning the full ML spectrum (**fraud · causal inference · GenAI · NLP · forecasting · MLOps**), each built with production rigor and honest evaluation.
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🔗 [**Fraud Detection Platform**](https://github.com/i-hridaysaha/fraud-detection-platform) | Point-in-time fraud scoring on the IEEE-CIS transaction stream — feature store with bit-identical online rows, cost-asymmetric thresholds, PSI drift monitoring and a gated retrain loop. Measures the leakage each shortcut buys (a random split alone inflates PR-AUC by **+0.26**); **37.6 ms** median scoring path. | `XGBoost` · `Redis` · `FastAPI` |
-| 🔗 [**DriftWatch**](https://github.com/i-hridaysaha/driftwatch) | Model-agnostic ML monitoring service that detects feature/prediction drift with delayed-label support and effect-size-based alerting — **219 passing tests**, fully containerized, seeded fault scenarios verified in CI against a real Postgres. | `FastAPI` · `PostgreSQL` · `Docker` |
-| 🔗 [**Uplift Targeting**](https://github.com/i-hridaysaha/uplift-targeting) | Per-customer treatment-effect estimation turned into a budgeted, dollar-valued targeting policy — meta-learners vs. uplift forests on **14M Criteo rows**, where uplift clears the response baseline by **4–6% Qini** (p < 0.001) and honestly doesn't on 64k Hillstrom customers. **130+ tests**, live Streamlit demo. | `scikit-uplift` · `LightGBM` · `Streamlit` |
-| 🔗 [**Insurance Policy RAG**](https://github.com/i-hridaysaha/insurance-policy-rag) | Grounded Q&A over insurance policies — hybrid retrieval with clause-level citations, **34/34 citations verified** and **3/3 correct refusals** when the answer isn't in the document. Runs fully local via Ollama. | `SBERT` · `FAISS` · `BM25` · `Ollama` |
-| 🔗 [**CVE→CWE Semantic Mapping**](https://github.com/i-hridaysaha/cve-cwe-semantic-mapping) | Auto-classifies vulnerability text to weakness categories via staged retrieve-then-rank — **87.4% top-1 / 96.1% top-3**, with SHAP explanations on every prediction. | `SBERT` · `LightGBM` · `SHAP` |
-| 🔗 [**FinSight**](https://github.com/i-hridaysaha/FinSight) | Forecasts next-quarter revenue, operating income & free cash flow from SEC + FRED data across **117 companies** — leakage-safe rolling-origin validation, per-company MASE, and the discipline to **ship the seasonal-naive baseline** for FCF when no learned model beat it. | `LSTM` · `LightGBM` · `Prophet` |
+| 🔗 [**Fraud Detection Platform**](https://github.com/i-hridaysaha/fraud-detection-platform) | Point-in-time fraud scoring on the IEEE-CIS transaction stream: feature store with bit-identical online rows, cost-asymmetric thresholds, PSI drift monitoring and a gated retrain loop. Measures the leakage each shortcut buys (a random split alone inflates PR-AUC by **+0.26**); **37.6 ms** median scoring path. | `XGBoost` · `Redis` · `FastAPI` |
+| 🔗 [**DriftWatch**](https://github.com/i-hridaysaha/driftwatch) | Model-agnostic ML monitoring service that detects feature/prediction drift with delayed-label support and effect-size-based alerting. **219 passing tests**, fully containerized, seeded fault scenarios verified in CI against a real Postgres. | `FastAPI` · `PostgreSQL` · `Docker` |
+| 🔗 [**Uplift Targeting**](https://github.com/i-hridaysaha/uplift-targeting) | Per-customer treatment-effect estimation turned into a budgeted, dollar-valued targeting policy. Meta-learners vs. uplift forests on **14M Criteo rows**, where uplift clears the response baseline by **4–6% Qini** (p < 0.001) and honestly doesn't on 64k Hillstrom customers. **130+ tests**, live Streamlit demo. | `scikit-uplift` · `LightGBM` · `Streamlit` |
+| 🔗 [**Insurance Policy RAG**](https://github.com/i-hridaysaha/insurance-policy-rag) | Grounded Q&A over insurance policies: hybrid retrieval with clause-level citations, **34/34 citations verified** and **3/3 correct refusals** when the answer isn't in the document. Runs fully local via Ollama. | `SBERT` · `FAISS` · `BM25` · `Ollama` |
+| 🔗 [**CVE→CWE Semantic Mapping**](https://github.com/i-hridaysaha/cve-cwe-semantic-mapping) | Auto-classifies vulnerability text to weakness categories via staged retrieve-then-rank: **87.4% top-1 / 96.1% top-3**, with SHAP explanations on every prediction. | `SBERT` · `LightGBM` · `SHAP` |
+| 🔗 [**FinSight**](https://github.com/i-hridaysaha/FinSight) | Forecasts next-quarter revenue, operating income & free cash flow from SEC + FRED data across **117 companies**: leakage-safe rolling-origin validation, per-company MASE, and the discipline to **ship the seasonal-naive baseline** for FCF when no learned model beat it. | `LSTM` · `LightGBM` · `Prophet` |
 
 <br/>
 
@@ -200,8 +200,8 @@ Projects spanning the full ML spectrum — **fraud · causal inference · GenAI 
 
 ## 🎓 &nbsp;Education & Credentials
 
-- 🎓 **M.Sc. Data Science & Business Analytics** — Asia Pacific University (APU), Malaysia
-- 🎓 **B.Tech. Computer Science & Engineering** — MCKV Institute of Engineering, India
+- 🎓 **M.Sc. Data Science & Business Analytics**, Asia Pacific University (APU), Malaysia
+- 🎓 **B.Tech. Computer Science & Engineering**, MCKV Institute of Engineering, India
 - 📜 **Certifications:** IBM Data Science Professional · SAS Data Science Professional · Microsoft Power BI Analytics
 - 🏆 **AXA Innovation Excellence Award (2023)** · **AWS Build Malaysia Semifinalist** (top 10% of 500+)
 
@@ -213,7 +213,7 @@ Projects spanning the full ML spectrum — **fraud · causal inference · GenAI 
 
 <div align="center">
 
-I'm open to **Senior Data Scientist / ML Engineer** roles — full-time, remote, or relocation.
+I'm open to **Senior Data Scientist / ML Engineer** roles: full-time, remote, or relocation.
 
 <a href="https://www.linkedin.com/in/ihridaysaha/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
